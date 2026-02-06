@@ -1,6 +1,6 @@
 cask "omni-text" do
   version "0.1.0"
-  sha256 "8aa849ea82b4a6c62ffbcfc6bde859037a3affacd3b1decb1cb06c30624cafc3"
+  sha256 "f430f361689de6589a114eea7d4da7d8ce9b5c21f8699834b2242e02810b0ebb"
 
   url "https://github.com/addison-w/Omni-Text/releases/download/v#{version}/Omni.Text_#{version}_aarch64.dmg"
   name "Omni Text"
